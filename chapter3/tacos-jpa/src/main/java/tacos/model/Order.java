@@ -1,4 +1,4 @@
-package tacos.entity;
+package tacos.model;
 
 import java.io.Serializable;
 import java.util.ArrayList;

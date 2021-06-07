@@ -1,4 +1,4 @@
-package tacos.entity;
+package tacos.model;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;

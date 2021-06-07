@@ -1,4 +1,4 @@
-package tacos.entity;
+package tacos.model;
 
 import java.util.Date;
 import java.util.List;

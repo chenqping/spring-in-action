@@ -4,7 +4,7 @@ import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.convert.converter.Converter;
 import org.springframework.stereotype.Component;
-import tacos.entity.Ingredient;
+import tacos.model.Ingredient;
 import tacos.repository.IngredientRepository;
 
 @Component
